@@ -1,0 +1,15 @@
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\bin\Debug\net6.0\HomeWorkLinq6.exe
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\bin\Debug\net6.0\HomeWorkLinq6.deps.json
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\bin\Debug\net6.0\HomeWorkLinq6.runtimeconfig.json
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\bin\Debug\net6.0\HomeWorkLinq6.dll
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\bin\Debug\net6.0\HomeWorkLinq6.pdb
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\obj\Debug\net6.0\HomeWorkLinq6.csproj.AssemblyReference.cache
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\obj\Debug\net6.0\HomeWorkLinq6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\obj\Debug\net6.0\HomeWorkLinq6.AssemblyInfoInputs.cache
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\obj\Debug\net6.0\HomeWorkLinq6.AssemblyInfo.cs
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\obj\Debug\net6.0\HomeWorkLinq6.csproj.CoreCompileInputs.cache
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\obj\Debug\net6.0\HomeWorkLinq6.dll
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\obj\Debug\net6.0\refint\HomeWorkLinq6.dll
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\obj\Debug\net6.0\HomeWorkLinq6.pdb
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\obj\Debug\net6.0\HomeWorkLinq6.genruntimeconfig.cache
+C:\Users\Влад и Аня\source\repos\HomeWorkLinq6\HomeWorkLinq6\obj\Debug\net6.0\ref\HomeWorkLinq6.dll
